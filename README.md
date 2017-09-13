@@ -24,6 +24,9 @@ The goal is to prepare tidy data that can be used for later analysis, creating o
 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## The code run_analysis.R
+
+<< execute this code in the same directory of the unzipped data for the project >>
+
 The steps are:
 
 > Merges the training and the test sets to create one data set
