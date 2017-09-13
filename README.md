@@ -27,13 +27,14 @@ The goal is to prepare tidy data that can be used for later analysis, creating o
 The steps are:
 
 > Merges the training and the test sets to create one data set
+
     1. reading test data
-    2. aggregating test data in one dataset
+    2. aggregating test data in one data set
     
     3. reading train data
-    4. aggregating train data in one dataset
+    4. aggregating train data in one data set
 
-    5. join test and train data in on dataset
+    5. join test and train data in on data set
 
 > Appropriately labels the data set with descriptive variable names
 
@@ -41,14 +42,17 @@ The steps are:
     2. setting column names
 
 > Extracts only the measurements on the mean and standard deviation for each measurement
+
     1. keeping subject and activity attributes 
     2. Adding extracted measurements 
 
 > Uses descriptive activity names to name the activities in the data set
-    1. merging datasets
+
+    1. merging data sets
     2. eliminating unnecessary column
 
-> independent tidy data set with the average of each variable for each activity and each subject
+> Creating independent tidy data set with the average of each variable for each activity and each subject
+
     1. aggregating data by subject, activity
     2. writing datasets in text files    
 
